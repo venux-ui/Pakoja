@@ -31,9 +31,6 @@ class DataDaftar extends HTMLElement {
                 <div"><h4 class="center" id="update"></h4></div>
             </div>
         </div>
-        <script>
-        var instance = M.Tabs.init(el, options);
-    </script>
         `;
     }
 }
